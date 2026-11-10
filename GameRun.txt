@@ -1,0 +1,64 @@
+ 8 ?- start.
+
+Hi, This is the "Name Game".
+You will be given a set of English letters in which you will add, delete or move to create your name.
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice....
+|: 1.
+
+Current letters in database:
+[a,b,c]
+
+Hi, This is the "Name Game".
+You will be given a set of English letters in which you will add, delete or move to create your name.
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice....
+|: |: 2.
+Enter the letter to add: 
+|: |: e.
+Letter added successfully.
+
+Hi, This is the "Name Game".
+You will be given a set of English letters in which you will add, delete or move to create your name.
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice....
+|: |: 1.
+
+Current letters in database:
+[a,b,c,e]
+
+i, This is the "Name Game".
+You will be given a set of English letters in which you will add, delete or move to create your name.
+Choose from the following:
+1- Display the current set of letters
+2- Add a letter
+3- Add a letter at the top
+4- Add a letter at the bottom
+5- Delete a letter
+6- Delete all letters
+7- Exit
+Enter your choice....
+|: |: 7.
+Exiting Name Game. Goodbye!
+true .
